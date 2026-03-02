@@ -8,7 +8,7 @@ SiteShelf is a project that showcases recreations of popular landing pages. Each
 
 ## Live Demo
 
-Check out the live demo: <https://siteshelf.netlify.app/>
+Check out the live demo: <https://html-css-showcase.netlify.app//>
 
 ## Project Structure
 
