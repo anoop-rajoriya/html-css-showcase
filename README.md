@@ -1,4 +1,4 @@
-# SiteShelf
+# HTML CSS Showcase
 
 A collection of modern landing page clones built with plain HTML & CSS.
 
