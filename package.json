@@ -1,14 +1,13 @@
 {
   "name": "html-css-showcase",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
+  "version": "1.0.0",
+    "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
+  "author": "Anoop Rajoriya",
   "devDependencies": {
-    "vite": "^7.2.4"
+    "vite": "^8.0.8"
   }
 }
